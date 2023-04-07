@@ -2,10 +2,10 @@ export function loadProjects() {
     return [
         {
             id: 1,
-            name: "Natours", 
-            description: "Back end e front end da aplicação Natours, projeto desenvolvido no curso Node.js, Express, MongoDB & More: The Complete Bootcamp 2020 do professor Jonas Schmedtmann na Udemy. O back end foi desenvolvido em Node e Express, utilizando como banco de dados o MongoDB. O front end foi desenvolvido em Pug. A aplicação possui tours, usuários e reviews.",
-            link: "https://natours-app-malu.herokuapp.com/",
-            github: "https://github.com/comarialuiza/natours-front",
+            name: "My Portfolio", 
+            description: "This is my portfolio website build with react, styled components and node.",
+            link: "https://www.dicksonbagenzi.tech/",
+            github: "https://github.com/chingTheCoder/portfolio",
             image: "portfolio.png",
             stack: [
                 { 
@@ -30,10 +30,10 @@ export function loadProjects() {
         },
         {
             id: 2,
-            name: "Github Overview",
-            description: "Aplicação que consome a API do GitHub. O usuário pode pesquisar por usernames e a aplicação retorna o avatar, username, followers e repositórios. Também é possível ver quatro repositórios do usuário. Há um alerta caso o usuário digite um username que não é válido. A aplicação possui uma versão light e outra dark, e a opção selecionada fica salva no local storage.",
-            link: "https://github-overview.netlify.app/",
-            github: "https://github.com/comarialuiza/github-overview",
+            name: "MovBies",
+            description: "A web app that shows movies and series built with react, and tmdb movie Api.",
+            link: "https://movbies.netlify.app/",
+            github: "https://github.com",
             image: "movbies.png",
             stack: [
                 { 
@@ -52,10 +52,10 @@ export function loadProjects() {
         },
         {
             id: 3,
-            name: "Weather Overview: Simple",
-            description: "Aplicação que consome a API do Weatherstack. O usuário digita o nome de uma cidade e a aplicação retorna a descrição do clima, temperatura atual, e um ícone que representa o mesmo. Há um load durante o carregamento. O background do card muda de acordo com o clima, para uma cor que remeta à temperatura e descrição do mesmo. O background da aplicação inteira muda dependendo de caso seja dia ou noite na cidade em questão.",
-            link: "https://weather-simple.netlify.app/",
-            github: "https://github.com/comarialuiza/weather-overview",
+            name: "Abc Emporio",
+            description: "A portfolio website for a client, the website showcase's the sanitary products at abc, The website is built using HTML, CSS, JavaScript and PHP.",
+            link: "https://abcemporio.co.tz/",
+            github: "https://github.com",
             image: "abc.png",
             stack: [
                 { 
@@ -74,10 +74,10 @@ export function loadProjects() {
         },
         {
             id: 4,
-            name: "Weather Overview: Complex",
-            description: "Aplicação que consome a API do LocationIQ e Open Weather Map. O usuário digita o nome de uma cidade e a aplicação retorna a descrição do clima, temperatura agora, e um ícone que representa o mesmo. Além disso, retorna a sensação térmica, o UV index, velocidade do vento, humidade, nível de nuvens e pressão. Também há um overview dos próximos sete dias da semana, com ícone e temperatura máxima e mínima.",
-            link: "https://weather-overview.netlify.app/",
-            github: "https://github.com/comarialuiza/weather-overview-complete",
+            name: "Neb Construction",
+            description: "A construction website for a client. The website is built using HTML, CSS, JavaScript and PHP. The website is responsive and has a contact form that sends an email to the client.",
+            link: "https://nebconstruction.co.tz/",
+            github: "https://github.com",
             image: "neb.png",
             stack: [
                 { 
