@@ -32,7 +32,7 @@ export function loadProjects() {
             id: 2,
             name: "MovBies",
             description: "A web app that shows movies and series built with react, and tmdb movie Api.",
-            link: "https://movbies.netlify.app/",
+            link: "https://movbies.vercel.app/",
             github: "https://github.com",
             image: "movbies.png",
             stack: [
@@ -54,7 +54,7 @@ export function loadProjects() {
             id: 3,
             name: "Abc Emporio",
             description: "A portfolio website for a client, the website showcase's the sanitary products at abc, The website is built using HTML, CSS, JavaScript and PHP.",
-            link: "https://abcemporio.co.tz/",
+            link: "https://abcemporiotz.com/",
             github: "https://github.com",
             image: "abc.png",
             stack: [
