@@ -10,7 +10,7 @@ export default function About() {
                 <img src="./images/apps.svg" alt="Logo" />
             </div>
             <div className="descriptive">
-                <h1>Dickson Bagenzi</h1>
+                <h1>ChingLabs</h1>
                 <h3>Full stack Developer</h3>
 
                 <p>
